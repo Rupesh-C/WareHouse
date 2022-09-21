@@ -7,14 +7,21 @@
         <entry key="..\:/WareHouse2/app/src/main/res/drawable/card_layout.xml" value="0.1015" />
         <entry key="..\:/WareHouse2/app/src/main/res/drawable/et_custom.xml" value="0.1015" />
         <entry key="..\:/WareHouse2/app/src/main/res/drawable/search_white.xml" value="0.1015" />
+        <entry key="..\:/WareHouse2/app/src/main/res/drawable/shadow.xml" value="0.11" />
         <entry key="..\:/WareHouse2/app/src/main/res/drawable/white_background.xml" value="0.1015" />
+        <entry key="..\:/WareHouse2/app/src/main/res/layout/activity_add_customer_page.xml" value="0.22083333333333333" />
+        <entry key="..\:/WareHouse2/app/src/main/res/layout/activity_add_delete_customer.xml" value="0.20677083333333332" />
+        <entry key="..\:/WareHouse2/app/src/main/res/layout/activity_add_delete_items.xml" value="0.22083333333333333" />
         <entry key="..\:/WareHouse2/app/src/main/res/layout/activity_add_item_popup.xml" value="0.22083333333333333" />
+        <entry key="..\:/WareHouse2/app/src/main/res/layout/activity_add_update_customer.xml" value="0.20677083333333332" />
+        <entry key="..\:/WareHouse2/app/src/main/res/layout/activity_add_update_items.xml" value="0.22447916666666667" />
         <entry key="..\:/WareHouse2/app/src/main/res/layout/activity_forgot_password.xml" value="0.22447916666666667" />
-        <entry key="..\:/WareHouse2/app/src/main/res/layout/activity_home.xml" value="0.25" />
+        <entry key="..\:/WareHouse2/app/src/main/res/layout/activity_home.xml" value="0.22" />
         <entry key="..\:/WareHouse2/app/src/main/res/layout/activity_login.xml" value="0.21041666666666667" />
         <entry key="..\:/WareHouse2/app/src/main/res/layout/activity_main.xml" value="0.21041666666666667" />
         <entry key="..\:/WareHouse2/app/src/main/res/layout/activity_signup.xml" value="0.21041666666666667" />
         <entry key="..\:/WareHouse2/app/src/main/res/layout/activity_splash_screen.xml" value="0.22447916666666667" />
+        <entry key="..\:/WareHouse2/app/src/main/res/layout/activity_view_item.xml" value="0.22" />
         <entry key="..\:/WareHouse2/app/src/main/res/layout/forgotpassword.xml" value="0.26094890510948904" />
         <entry key="..\:/WareHouse2/app/src/main/res/menu/menu.xml" value="0.22447916666666667" />
       </map>

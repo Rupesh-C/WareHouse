@@ -96,10 +96,11 @@
                 <ImageView
                     android:layout_width="100dp"
                     android:layout_height="100dp"
-                    android:src="@drawable/img"
+                    android:src="@drawable/view_item"
                     android:layout_margin="4dp"
-                    android:contentDescription="@string/app_name"
+                    android:contentDescription="WareHouse2"
                     android:padding="8dp"
+                    android:onClick="ShowAddItems"
                     />
                 <TextView
                     android:layout_width="wrap_content"
@@ -126,10 +127,11 @@
                 <ImageView
                     android:layout_width="100dp"
                     android:layout_height="100dp"
-                    android:src="@drawable/img_1"
+                    android:src="@drawable/add_customer"
                     android:layout_margin="4dp"
-                    android:contentDescription="@string/app_name"
+                    android:contentDescription="WareHouse2"
                     android:padding="8dp"
+                    android:onClick="ShowAddcustomer"
                     />
                 <TextView
                     android:layout_width="wrap_content"
@@ -156,10 +158,11 @@
                 <ImageView
                     android:layout_width="100dp"
                     android:layout_height="100dp"
-                    android:src="@drawable/img_2"
+                    android:src="@drawable/update_items"
                     android:layout_margin="4dp"
                     android:contentDescription="@string/app_name"
                     android:padding="8dp"
+                    android:onClick="showUpdateItem"
                     />
                 <TextView
                     android:layout_width="wrap_content"
@@ -186,10 +189,11 @@
                 <ImageView
                     android:layout_width="100dp"
                     android:layout_height="100dp"
-                    android:src="@drawable/img_3"
+                    android:src="@drawable/update_customer"
                     android:layout_margin="4dp"
                     android:contentDescription="@string/app_name"
                     android:padding="8dp"
+                    android:onClick="ShowUpdateCustomer"
                     />
                 <TextView
                     android:layout_width="wrap_content"
@@ -216,15 +220,16 @@
                 <ImageView
                     android:layout_width="100dp"
                     android:layout_height="100dp"
-                    android:src="@drawable/img_5"
+                    android:src="@drawable/view_item"
                     android:layout_margin="4dp"
                     android:contentDescription="@string/app_name"
                     android:padding="8dp"
+                    android:onClick="ViewDeleteItems"
                     />
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Delete Items"
+                    android:text="View Items"
                     android:textStyle="bold"
                     android:textSize="15sp"
                     android:textColor="@color/black"/>
@@ -246,15 +251,16 @@
                 <ImageView
                     android:layout_width="100dp"
                     android:layout_height="100dp"
-                    android:src="@drawable/img_4"
+                    android:src="@drawable/view_customer"
                     android:layout_margin="4dp"
                     android:contentDescription="@string/app_name"
                     android:padding="8dp"
+                    android:onClick="ShowCustomer"
                     />
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Delete Customer"
+                    android:text="View Customer"
                     android:textStyle="bold"
                     android:textSize="15sp"
                     android:textColor="@color/black"/>
@@ -306,7 +312,7 @@
                     app:layout_constraintStart_toStartOf="parent"
                     app:layout_constraintEnd_toEndOf="parent"
                     android:layout_marginTop="6dp"
-                    android:text="@string/card_text"/>
+                    android:text="Hello Friends!!"/>
 
             </androidx.constraintlayout.widget.ConstraintLayout>
 

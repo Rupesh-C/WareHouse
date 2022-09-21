@@ -3,16 +3,12 @@ package com.example.warehouse;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
-import android.util.DisplayMetrics;
-import android.view.Gravity;
-import android.view.WindowManager;
 
-public class add_item_popup extends AppCompatActivity {
+public class View_Customer extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_add_item_popup);
-
+        setContentView(R.layout.activity_view_customer);
     }
 }
