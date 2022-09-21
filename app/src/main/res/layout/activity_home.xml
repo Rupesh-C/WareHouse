@@ -96,7 +96,7 @@
                 <ImageView
                     android:layout_width="100dp"
                     android:layout_height="100dp"
-                    android:src="@drawable/view_item"
+                    android:src="@drawable/add_item"
                     android:layout_margin="4dp"
                     android:contentDescription="WareHouse2"
                     android:padding="8dp"
